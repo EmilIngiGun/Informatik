@@ -9,5 +9,6 @@ Har løst opgave 0 og fundet passwordet til opgave 1, men ved ikke hvordan man s
 ![image](https://github.com/user-attachments/assets/3a857c98-af05-4970-882d-890d4d180911)
 
 Har fjernet kommandoen og passwordetfor at undgå spoilers :). 
+Nåede ik så meget, har aldrig arbejdet med terminals før så var lidt noob;(
 
 
