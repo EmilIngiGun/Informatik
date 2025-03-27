@@ -12,3 +12,7 @@ Nåede ik så meget, har aldrig arbejdet med terminals før så var lidt noob;(
 
 ## 27/06/25
 ### Commandprompt og Terminals
+Vi arbejdede med Commanprompt og Terminals. Vi fandt ud af hvordan man kiggede på ports. Vi prøvede også at lave en lokal forbindelse med ncat, og derefter en online.  
+Vi lærte også om http status codes, såsom 418. 
+
+Derefter blev der en kort introduktion til SQL injection, hvor man prøver at inject en commando gennem et brugernavn. 
