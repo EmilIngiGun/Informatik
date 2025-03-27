@@ -1,5 +1,5 @@
 # Informatik
-All schenanigans i informatik
+##All schenanigans i informatik
 
 
 OverTheWire:
