@@ -1,6 +1,6 @@
 # Informatik
 ## All schenanigans i informatik
-
+### 13/06/25
 
 OverTheWire:
 Spoiler warning i guess: 
