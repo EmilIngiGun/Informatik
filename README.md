@@ -26,3 +26,25 @@ Derefter blev der en kort introduktion til SQL injection, hvor man prøver at in
 - Sikkerhed, privacy, crypto
 - Server-client
 
+## Introduktion til første forløb
+### Fokuspunkter: 
+- IT-systemer
+- Server Clitent
+  - Server Client
+    - UDstiller endpoint der giver client(s) mulighed for at lagre og læse data
+  - API HTTP kald
+    - Get
+    - Put
+    - Post
+    - Store
+  - Json (Javascipt Object Notation) bruges til det
+
+### Serveren
+Kan opdeles i 3 lag: 
+- Præsentationslaget
+- Logiklaget
+  - Programmeringssprog:
+    - Flash
+    - Django
+    - SQlite
+- Datalaget
