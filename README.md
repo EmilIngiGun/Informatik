@@ -21,6 +21,10 @@ Derefter blev der en kort introduktion til SQL injection, hvor man prøver at in
 ### Gennemgang af tidligere og fremtidige emner
 - Databaser
 - Innovation: 4p, radikal/incrementiel
+  - Produkt
+  - Proces
+  - Position
+  - Paradigme
 - 3-lagsmodellen
 - Interaktionsdesign, gestaltlovene
 - Sikkerhed, privacy, crypto
