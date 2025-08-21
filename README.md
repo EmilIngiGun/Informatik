@@ -16,3 +16,13 @@ Vi arbejdede med Commanprompt og Terminals. Vi fandt ud af hvordan man kiggede p
 Vi lærte også om http status codes, såsom 418. 
 
 Derefter blev der en kort introduktion til SQL injection, hvor man prøver at inject en commando gennem et brugernavn. 
+
+## 21/08/25
+### Gennemgang af tidligere og fremtidige emner
+- Databaser
+- Innovation: 4p, radikal/incrementiel
+- 3-lagsmodellen
+- Interaktionsdesign, gestaltlovene
+- Sikkerhed, privacy, crypto
+- Server-client
+
