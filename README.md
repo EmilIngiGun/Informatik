@@ -63,18 +63,18 @@ Vi blev introduceret til gate logic, hvor der også blev forklaret hvordan alle 
 ### Konstruering af gates i Minecraft
 Derefter begyndte Tobias, Halfdan og jeg at prøve at konstrue de forskellige typer gates
 
-Først blev de grundlæggende gates konstrueret. Det startede med OR gaten da det var den simpleste at konstruerer i minecraft: 
+Først blev de grundlæggende gates konstrueret. Det startede med OR gaten da det var den simpleste at konstruerer i minecraft:  
 <img width="234" height="316" alt="image" src="https://github.com/user-attachments/assets/06444280-6d40-47e8-ba28-1f764d872e8f" />
 
-Derefter NOT gaten
+Derefter NOT gaten:  
 <img width="859" height="304" alt="image" src="https://github.com/user-attachments/assets/ecd39171-fb1f-4941-a764-545e285494e7" />
 
-AND gaten:
+AND gaten:  
 <img width="405" height="568" alt="image" src="https://github.com/user-attachments/assets/8ea2f28f-f702-4484-9913-7a61a266cdc8" />
 
-
-Derefter blev, NAND or XOR gatene konstrueret. XOR blev konstrueret fra følegnde diagram:
+Derefter blev NAND og XOR gatene konstrueret. XOR blev konstrueret fra følgende diagram:  
 <img width="381" height="228" alt="image" src="https://github.com/user-attachments/assets/44c5979c-7c18-4c2a-b1b8-6092d54e5cab" />
+
 
 
 
