@@ -76,13 +76,6 @@ Derefter blev NAND og XOR gatene konstrueret. XOR blev konstrueret fra følgende
 <img width="381" height="228" alt="image" src="https://github.com/user-attachments/assets/44c5979c-7c18-4c2a-b1b8-6092d54e5cab" />
 <img width="344" height="450" alt="image" src="https://github.com/user-attachments/assets/13f58129-7c63-4c3d-ac12-98b260016d3f" />
 
-
-
-
-
-
-
-
-
-
-
+Derefter at de grundlæggende gates var blevet lavet blev der gjort brug af diagrammet nedenunder til at konstruere en adder med carry:  
+<img width="1696" height="714" alt="image" src="https://github.com/user-attachments/assets/bb6a2065-b109-4513-9c73-842b4a34227c" />
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/821d7bca-0865-4c9c-8164-95f965b13a35" />
