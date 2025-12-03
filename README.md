@@ -52,3 +52,17 @@ Kan opdeles i 3 lag:
     - Django
     - SQlite
 - Datalaget
+
+## 03/012/25
+### Gates
+Vi blev introduceret til gate logic, hvor der også blev forklaret hvordan alle andre gates kan bygges ud fra NAND gates.
+<img width="1193" height="1056" alt="image" src="https://github.com/user-attachments/assets/f9224b4b-7066-4b6b-8649-b22a7008a870" />
+
+
+
+### Konstruering af gates i Minecraft
+Derefter begyndte Tobias, Halfdan og jeg at prøve at konstrue de forskellige typer gates. 
+Billeder af gatesene i minecraft: 
+
+
+
