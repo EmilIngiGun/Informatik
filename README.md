@@ -74,6 +74,8 @@ AND gaten:
 
 Derefter blev NAND og XOR gatene konstrueret. XOR blev konstrueret fra følgende diagram:  
 <img width="381" height="228" alt="image" src="https://github.com/user-attachments/assets/44c5979c-7c18-4c2a-b1b8-6092d54e5cab" />
+<img width="344" height="450" alt="image" src="https://github.com/user-attachments/assets/13f58129-7c63-4c3d-ac12-98b260016d3f" />
+
 
 
 
