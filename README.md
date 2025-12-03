@@ -62,7 +62,15 @@ Vi blev introduceret til gate logic, hvor der også blev forklaret hvordan alle 
 
 ### Konstruering af gates i Minecraft
 Derefter begyndte Tobias, Halfdan og jeg at prøve at konstrue de forskellige typer gates. 
-Billeder af gatesene i minecraft: 
+
+Først blev de grundlæggende gates konstrueret. Det startede med or gaten da det var den simpleste at konstruerer i minecraft. 
+<img width="234" height="316" alt="image" src="https://github.com/user-attachments/assets/06444280-6d40-47e8-ba28-1f764d872e8f" />
+
+Derefter not gaten. 
+<img width="859" height="304" alt="image" src="https://github.com/user-attachments/assets/ecd39171-fb1f-4941-a764-545e285494e7" />
+
+
+
 
 
 
