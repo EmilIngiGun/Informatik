@@ -53,6 +53,10 @@ Kan opdeles i 3 lag:
     - SQlite
 - Datalaget
 
+## Data API projekt
+https://github.com/Lykkeskov/Data-API-Projekt
+
+
 ## 03/012/25
 ### Gates
 Vi blev introduceret til gate logic, hvor der også blev forklaret hvordan alle andre gates kan bygges ud fra NAND gates.
