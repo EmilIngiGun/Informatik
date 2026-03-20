@@ -85,5 +85,13 @@ Derefter at de grundlæggende gates var blevet lavet blev der gjort brug af diag
 <img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/821d7bca-0865-4c9c-8164-95f965b13a35" />
 
 
-## 03/012/25
+## 03/12/25
 ### Gates
+
+""20/03/26
+### Capture The Flag
+Der blev lavet capture the flag hvor der blev lavet grupper som man arbejde sammen i. Jeg endte i grupe med Magnus Norling og Gustav Emil: 
+<img width="1132" height="591" alt="image" src="https://github.com/user-attachments/assets/f10f5b62-48f7-43f8-ae72-9d4dce825803" />
+<img width="651" height="404" alt="image" src="https://github.com/user-attachments/assets/0d6cd0b5-e725-42d2-ad8a-7722c8ff3970" />
+
+
