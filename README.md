@@ -90,7 +90,7 @@ Derefter at de grundlæggende gates var blevet lavet blev der gjort brug af diag
 
 ""20/03/26
 ### Capture The Flag
-Der blev lavet capture the flag hvor der blev lavet grupper som man arbejde sammen i. Jeg endte i grupe med Magnus Norling og Gustav Emil: 
+Der blev lavet capture the flag hvor der blev lavet grupper som man arbejde sammen i. Jeg endte i grupe med Magnus Norling og Gustav Emil. de opgaver jeg selv havde fokus på var inden for emnerne Kryptografi og Web Exploitation: 
 <img width="1132" height="591" alt="image" src="https://github.com/user-attachments/assets/f10f5b62-48f7-43f8-ae72-9d4dce825803" />
 <img width="651" height="404" alt="image" src="https://github.com/user-attachments/assets/0d6cd0b5-e725-42d2-ad8a-7722c8ff3970" />
 
